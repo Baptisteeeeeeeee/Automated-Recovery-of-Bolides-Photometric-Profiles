@@ -14,3 +14,4 @@ Grâce à ces informations, let en utilisant l'équation ci-dessous, le profil p
 
 ![photometric_profile](https://github.com/user-attachments/assets/1777c2e8-bbde-4493-9737-477aba5ec4e3)
 
+Rapport de projet complett : [rapport_stage.pdf](./docs/rapport_stage.pdf)
