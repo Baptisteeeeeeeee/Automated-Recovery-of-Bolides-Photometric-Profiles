@@ -1,5 +1,13 @@
 # Automated-Recovery-of-Bolides-Photometric-Profiles
+
+## Création du jeu de données
+Le jeu de données a été créé en éliminant les étoiles originales des images par ouverture morphologique locale avant d'en insérer de nouvelles, créée artificiellement de forme et position connues.
+![star_free_image](https://github.com/user-attachments/assets/efe529ee-5bc2-48dd-884e-9cb23d384d27)
+![synthetic_stars_image](https://github.com/user-attachments/assets/834cfc3c-83d1-449a-b731-b34a0c809929)
+
+
 ## Pré-traitements des données 
+
 L'un des problèmes majeurs de la détection d'étoiles est le risque de faux positifs induits par les lumières artificielles dans les zones urbaines. Un modèle est donc utilisé en amont de la détection d'étoiles pour segmenter ces zones et prévenir les fausses détections.
 ![not_preprocessed](https://github.com/user-attachments/assets/7ba6e343-2225-47b2-ae84-f4a4ea3785d4)
 
